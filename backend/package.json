@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/GoldWomenAcademy/crud-project/issues"
   },
-  "homepage": "https://github.com/GoldWomenAcademy/crud-project#readme"
+  "homepage": "https://github.com/GoldWomenAcademy/crud-project#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "node": "^14.4.0",
+    "nodejs": "0.0.0",
+    "server": "^1.0.29"
+  }
 }
